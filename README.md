@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm lucky enough to have a great job working for Microsoft, building and playing with software code for a living.  
+I'm lucky enough to have a great job working for Microsoft, building and playing with code for a living.  
 If you're reading this, I'm hoping you love coding and technology as much as I do! 😄
 
 - 🔭 In my spare time I work on the Azure Storage Emulator - [Azurite](https://github.com/azure/azurite), my day job involves helping Microsoft ISV partners create cloud solutions using the Microsoft tech stack, Power Platform, O365 and Azure Cloud.
