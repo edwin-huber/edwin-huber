@@ -8,5 +8,5 @@ I use these repos to share code snippets and information when collaborating with
 - 🔭 In my spare time I work on the Azure Storage Emulator - [Azurite](https://github.com/azure/azurite), my day job involves helping Microsoft ISV partners create cloud solutions using the Microsoft tech stack, Power Platform, O365 and Azure Cloud.
 - ⚡ Fun facts: I started out with a Commodore Vic 20 in the 80s, played around with Amiga Basic in the 90s, and spent about 16 years looking at C, C++, C# and assembly in the 2000s debugging issues in Microsoft products. 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-huber&hide=html&exclude_repo=edwin-huber.github.io)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwin-huber&layout=compact&langs_count=8)
 ![Edwin's github stats](https://github-readme-stats.vercel.app/api?username=edwin-huber&show_icons=true&count_private=true&line_height=40)
