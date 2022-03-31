@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm lucky enough to have a great job working for Microsoft, building and playing with code for a living.  
+I'm lucky enough to have a great job working for Microsoft, coding, building and experimenting with software for a living.  
 If you're reading this, I'm hoping you love coding and technology as much as I do! 😄
 
 I use these repos to share code snippets and information when collaborating with our partner's developers and colleagues.
